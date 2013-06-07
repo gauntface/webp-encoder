@@ -1,0 +1,13 @@
+{
+  "name": "webp-encoder",
+  "version": "0.0.1",
+  "dependencies": {
+    "node-fs": ">=0.1.6",
+    "ffi": ">=0.8"
+    },
+  "devDependencies": {
+  },
+  "engines": {
+    "node": ">=0.8.0"
+  }
+}
